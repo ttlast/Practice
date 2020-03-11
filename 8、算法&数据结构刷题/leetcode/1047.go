@@ -12,10 +12,5 @@ func removeDuplicates(S string) string {
         sstack[top] = char
 	}
 
-    var retStr string
-    for i := 0; i<=top; i++ {
-        retStr =  retStr + string(sstack[i])
-    }
-
-	return retStr
+	return string(sstack[0:top+1])
 }
