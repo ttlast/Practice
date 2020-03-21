@@ -5,7 +5,7 @@
 ------
 
 ## 深入理解计算机系统
-    cmu配套网站 https://link.zhihu.com/?target=https%3A//www.cs.cmu.edu/~213/schedule.html
+    cmu配套网站 https://www.cs.cmu.edu/~213/schedule.html
     实验 http://csapp.cs.cmu.edu/3e/labs.html
 
 
